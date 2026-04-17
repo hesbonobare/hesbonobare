@@ -44,13 +44,16 @@ I specialize in designing and delivering **secure, high-performance systems** ac
 
 ---
 
+
 ### ⚛️ Frontend Technologies
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge\&logo=angular)
+![Ionic](https://img.shields.io/badge/Ionic-black?style=for-the-badge\&logo=ionic)
 ![Vue.js](https://img.shields.io/badge/Vue-black?style=for-the-badge\&logo=vue.js)
-![Svelte](https://img.shields.io/badge/SvelteKit-black?style=for-the-badge\&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-black?style=for-the-badge\&logo=svelte)
 ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwindcss)
 ![Material UI](https://img.shields.io/badge/MUI-black?style=for-the-badge\&logo=mui)
 
@@ -59,6 +62,7 @@ I specialize in designing and delivering **secure, high-performance systems** ac
 ### 🧠 Backend Technologies
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge\&logo=nestjs)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge\&logo=fastapi)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge\&logo=laravel)
@@ -66,7 +70,6 @@ I specialize in designing and delivering **secure, high-performance systems** ac
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge\&logo=graphql)
 ![REST API](https://img.shields.io/badge/REST-black?style=for-the-badge)
 
----
 
 ### 🗄️ Databases
 
